@@ -1,3 +1,6 @@
+body{
+  margin:0;
+}
 header {
   background-color: #355c70;
   height: 120px;
