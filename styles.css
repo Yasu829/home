@@ -15,7 +15,8 @@ header {
   text-align: center;
 }
 .contents {
-  background-color: lightgrey;
+  background-image: url('note.png');
+  background-repeat: repeat-y;
   height: 3000px;
   margin: 0px;
 }
