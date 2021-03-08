@@ -15,8 +15,9 @@ header {
   text-align: center;
 }
 .contents {
-  background-image: url('note.png');
+  background-image: url('shibo-washi-pattern-01.jpg');
   background-repeat: repeat-y;
+  background-size:contain;
   height: 3000px;
   margin: 0px;
 }
