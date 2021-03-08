@@ -2,7 +2,7 @@ header{
   width:100%;
   height:300px;
   background-color:purple;
-  position:static;
+  position: sticky;
 }
 #content{
   width:90%;
