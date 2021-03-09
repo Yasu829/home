@@ -2,7 +2,7 @@ body{
   margin:0;
 }
 header {
-  background-image: url('head-background.jpg');
+  background-image: url('../image/head-background.jpg');
   background-size:cover;
   height: 120px;
   border-style: solid;
@@ -12,14 +12,14 @@ header {
   top: 0;
   
 }
-.contents > a > p{
-  margin:0px;
-  text-align: center;
-}
-.contents {
-  background-image: url('background.jpg');
+#contents {
+  background-image: url('../image/background.jpg');
   background-repeat: repeat-y;
   background-size:cover;
   height: 3000px;
   margin: 0px;
+}
+#contents > a > p{
+  margin:0px;
+  text-align: center;
 }
